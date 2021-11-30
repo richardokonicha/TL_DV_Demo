@@ -7,25 +7,15 @@ import {
 } from "react-router-dom";
 import Videos from './videos';
 import Video from './video';
+import Nav from './navigation';
 
 
 export default function App() {
 
   return (
+
     <Router>
-        {/* <nav>
-          <ul>
-            <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
-              <Link to="/vide">About</Link>
-            </li>
-            <li>
-              <Link to="/users">Users</Link>
-            </li>
-          </ul>
-        </nav> */}
+        <Nav/>
 
         <Routes>
           <Route exact path="/:id" element={<Video/>}/>

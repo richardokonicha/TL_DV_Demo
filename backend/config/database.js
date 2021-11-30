@@ -18,7 +18,7 @@ module.exports = ({ env }) => ({
 //     default: {
 //       connector: 'mongoose',
 //       settings: {
-//         uri: env('DATABASE_URI'),
+//         uri: 'mongodb+srv://tl_dv:<password>@cluster0.wh1i9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
 //       },
 //       options: {
 //         ssl: true,
