@@ -26,3 +26,8 @@ yarn develop
 ```
 
 Visit http://localhost:3000 
+
+![alt text](http://url/to/img.png)
+
+
+![alt text](http://url/to/img.png)
