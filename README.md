@@ -26,3 +26,8 @@ yarn develop
 ```
 
 Visit http://localhost:3000 
+
+![alt text](https://github.com/konichar/TL_DV_Demo/blob/main/video.png)
+
+
+![alt text](https://github.com/konichar/TL_DV_Demo/blob/main/videos.png)
