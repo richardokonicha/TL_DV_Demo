@@ -1,5 +1,5 @@
 # TL_DV_Demo
-A full stack application built with Strapi and React for viewing and editing video 
+A full stack application built with Strapi and React for viewing and editing videos
 
 ## Installation
 
