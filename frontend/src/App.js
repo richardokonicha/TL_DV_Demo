@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  Link
 } from "react-router-dom";
 import Videos from './videos';
 import Video from './video';
@@ -16,7 +15,6 @@ export default function App() {
 
     <Router>
         <Nav/>
-
         <Routes>
           <Route exact path="/:id" element={<Video/>}/>
           <Route exact path="/" element={<Videos/>}/>

@@ -11,7 +11,7 @@ export default function Nav() {
                 Home
             </Button>
             <Spacer />
-            <Avatar name="Foot print" colorScheme="blackAlpha" size="xs" />
+            <Avatar name="Tl;DV" colorScheme="navItem" size="xs" />
         </HStack>
     )
 }
