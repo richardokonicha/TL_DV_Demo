@@ -16,7 +16,7 @@
     "@strapi/plugin-users-permissions": "4.0.0",
     "@strapi/strapi": "4.0.0",
     
-    "mongoose": "^6.0.14",
+    "mongoose": "^6.4.6",
     "react-router-dom": "^6.0.2",
     "sqlite3": "5.0.2"
   },
